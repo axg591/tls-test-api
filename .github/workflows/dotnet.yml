@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  build: Test.sln
 
     runs-on: ubuntu-latest
 
